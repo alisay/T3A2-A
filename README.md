@@ -13,6 +13,8 @@ From the map view or the search results view, you can navigate to see a page wit
 
 Additional features 
 - wayfinding (find the best route from you to another artwork, from one artwork to another)
+- admin users can login to add additional artworks to the database
+- regular users can login to create a "favourites list" of artworks
 
 The target audiences are: 
 - Local residents interested in finding out more information about the artworks in their home town.
@@ -22,7 +24,6 @@ The target audiences are:
 Tech stack: 
 MERN
 
-
 R2	Dataflow Diagram	
 
 
@@ -30,6 +31,7 @@ R3	Application Architecture Diagram
 
 
 R4	User Stories	
+
 
 
 R5	Wireframes for multiple standard screen sizes, created using industry standard software	
