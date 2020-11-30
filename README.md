@@ -7,7 +7,7 @@ R1	Description of your website, including:
 This application displays the location of public artworks in City of Melbourne. It can be used to navigate between artworks and learn more about each. It has three main views: 
 1. a landing page with a scan-and-scrollable map that shows the user's location and pin markers at the location of each artwork.
 2. an about page with information about the public art collection, and with a colophon. 
-3. a search view with an open text field that searches the title and artist of the artwork 
+3. a search view with an open text field that searches the title and artist of the artwork [with the option to view all as an alphabetically sorted list]
 
 From the map view or the search results view, you can navigate to see a page with a photograph of the artwork and the metadata including title, artist, location, date, materials. 
 
