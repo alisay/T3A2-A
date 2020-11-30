@@ -11,9 +11,10 @@ This application displays the location of public artworks in City of Melbourne. 
 
 From the map view or the search results view, you can navigate to see a page with a photograph of the artwork and the metadata including title, artist, location, date, materials. 
 
+Registered administrators can log in to add additional artworks to the database, and edit or delete artworks they have added. 
+
 Additional features 
 - wayfinding (find the best route from you to another artwork, from one artwork to another)
-- admin users can login to add additional artworks to the database
 - regular users can login to create a "favourites list" of artworks
 
 The target audiences are: 
