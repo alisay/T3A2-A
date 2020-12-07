@@ -1,4 +1,7 @@
-R1	Description of your website, including:
+# T3A2-A - MERN Application (Part A)
+A group project between Alisa Blakeney and Tom Dunstan
+
+## R1. Description of your website, including:
 - Purpose
 - Functionality / features
 - Target audience
@@ -13,26 +16,63 @@ From the map view or the search results view, you can navigate to see a page wit
 
 Registered administrators can log in to add additional artworks to the database, and edit or delete artworks they have added. 
 
-Additional features 
+### Additional Features
 - wayfinding (find the best route from you to another artwork, from one artwork to another)
 - regular users can login to create a "favourites list" of artworks
 - a "share" button that generates a shareable link
 
-The target audiences are: 
+### Target Audiences
 - Local residents interested in finding out more information about the artworks in their home town.
 - Tourists interested in learning about the culture of the town they are visiting.
 - Those with an academic interest in art, wanting a basic entry point into researching individual public artworks
 
-Tech stack: 
-MERN
+### Tech stack
 
-R2	Dataflow Diagram	
+Frontend:
+- React
+- Axios
+- Turf JS
+- Netlify
 
+Backend:
+- Node
+- Express
+- Mongoose
+- MongoDB
+- Express Session
+- Passport
+- AWS S3
+- Heroku
+- Atlas
 
-R3	Application Architecture Diagram	
+Testing:
+- Jest
 
+Source Control:
+- Git
+- GitHub
 
-### R4	User Stories	
+Documention and Planning:
+- Trello
+- Figma
+- Lucid Chart
+- Diagrams.net
+
+---
+
+## R2. Dataflow Diagram	
+
+![Dataflow Diagram](./docs/Diagrams/DDF.jpeg)
+
+---	
+
+## R3. Application Architecture Diagram
+
+![Architectural Diagram](./docs/Diagrams/AAD.jpg)
+
+---	
+
+## R4. User Stories	
 
 #### Personae 
 <details><summary>Click to expand</summary>
@@ -111,7 +151,7 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
 
 </details>
 
-### R5	Wireframes for multiple standard screen sizes, created using industry standard software	
+## R5. Wireframes for multiple standard screen sizes, created using industry standard software	
 
 <details><summary>Click to expand</summary>
 
@@ -127,4 +167,17 @@ Administrator home:<br><img src="docs/admin.png" alt="Administrator home" width=
 Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br><br>
 </details>
 
-R6	Screenshots of your Trello board throughout the duration of the project	
+## R6. Screenshots of your Trello board throughout the duration of the project	
+
+Week 1
+![Screenshot 1](./docs/Trello_Screenshots/ScrnSht_1.png)
+
+Week 2
+![Screenshot 2](./docs/Trello_Screenshots/ScrnSht_2.png)
+
+Week 3
+![Screenshot 3](./docs/Trello_Screenshots/ScrnSht_3.png)
+
+Week 4
+![Screenshot 4](./docs/Trello_Screenshots/ScrnSht_4.png)
+![Screenshot 5](./docs/Trello_Screenshots/ScrnSht_5.png)
