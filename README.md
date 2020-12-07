@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # T3A2-A - MERN Application (Part A)
 A group project between Alisa Blakeney and Tom Dunstan
-=======
-# T3A2-A - MERN Application
->>>>>>> small changes
 
 ## R1. Description of your website, including:
 - Purpose
@@ -61,7 +57,6 @@ Documention and Planning:
 - Figma
 - Lucid Chart
 - Diagrams.net
-
 ---
 ## R2. Dataflow Diagram	
 
@@ -71,7 +66,6 @@ Documention and Planning:
 ## R3. Application Architecture Diagram
 
 ![Architectural Diagram](./Diagrams/AAD.jpg)
-
 ---
 ## R4	User Stories	
 
@@ -179,35 +173,7 @@ Week 2
 Week 3
 ![Screenshot 3](./Trello_Screenshots/ScrnSht_3.png)
 
-Week 4
 ![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
-Tech stack: 
-MERN
 
----
-## R2. Dataflow Diagram	
-
-![Dataflow Diagram](./Diagrams/DDF.jpeg)
-
----
-## R3. Application Architecture Diagram
-
-![Architectural Diagram](./Diagrams/AAD.jpg)
-
----
-## R4. User Stories	
-
-
----
-## R5. Wireframes for multiple standard screen sizes, created using industry standard software	
-
----
-## R6. Screenshots of your Trello board throughout the duration of the project	
-
-![Screenshot 1](./Trello_Screenshots/ScrnSht_1.png)
-
-![Screenshot 2](./Trello_Screenshots/ScrnSht_2.png)
-
-![Screenshot 3](./Trello_Screenshots/ScrnSht_3.png)
-
+Week 4
 ![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
