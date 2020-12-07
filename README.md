@@ -117,14 +117,14 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
 
 [Click here to view prototype on Figma](https://www.figma.com/proto/qeHkwgWMhlNLU0kqAG7YAz/Wireframes?node-id=9%3A7&viewport=521%2C164%2C0.28764817118644714&scaling=scale-down)
 
-<img src="./docs/home.png" alt="Home" width="50"/>
-<img src="docs/maps.png" alt="Map view" width="50"/>
-<img src="docs/list.png" alt="Search view" width="50"/>
-<img src="docs/artwork.png" alt="Artwork details" width="50"/>
-<img src="docs/about.png" alt="About page" width="50"/>
-<img src="docs/login.png" alt="Administrator log in" width="50"/>
-<img src="docs/admin.png" alt="Administrator home" width="50"/>
-<img src="docs/add.png" alt="Administrator add/edit artwork" width="50"/>
+<img src="./docs/home.png" alt="Home" width="200"/><br>
+<img src="docs/maps.png" alt="Map view" width="200"/><br>
+<img src="docs/list.png" alt="Search view" width="200"/><br>
+<img src="docs/artwork.png" alt="Artwork details" width="200"/><br>
+<img src="docs/about.png" alt="About page" width="200"/><br>
+<img src="docs/login.png" alt="Administrator log in" width="200"/><br>
+<img src="docs/admin.png" alt="Administrator home" width="200"/><br>
+<img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br>
 </details>
 
 R6	Screenshots of your Trello board throughout the duration of the project	
