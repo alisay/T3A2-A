@@ -32,7 +32,7 @@ R2	Dataflow Diagram
 R3	Application Architecture Diagram	
 
 
-### R4	User Stories	
+## R4	User Stories	
 
 #### Personae 
 <details><summary>Click to expand</summary>
@@ -111,7 +111,8 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
 
 </details>
 
-### R5	Wireframes for multiple standard screen sizes, created using industry standard software	
+---
+## R5   Wireframes for multiple standard screen sizes, created using industry standard software	
 
 <details><summary>Click to expand</summary>
 
