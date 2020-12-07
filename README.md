@@ -63,6 +63,10 @@ Exacting in his standards
 education, lifestyle, interests, values, goals, needs, limitations, desires, attitudes, and patterns of behaviour.
 </details>
 
+
+#### User Stories
+<details><summary>Click to expand</summary>
+
 ##### Users who are administrators
 
 * As an administrator:
@@ -110,6 +114,8 @@ As an artist whose artwork is in the City of Melbourne public art collection:
     * I want to be able to view my own artwork, even when I am not physically in Melbourne, so that I can experience some of the joy I am bringing to the local populace. 
     * I want to understand the context in which my artwork has been placed, so that I can be sure that my integrity as an artist is not compromised. 
     * I want my details and the information about my artwork to be prominent, accessible and accurate, so that I can ensure my moral rights as an artist are being respected.
+
+</details>
 
 R5	Wireframes for multiple standard screen sizes, created using industry standard software	
 
