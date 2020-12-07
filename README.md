@@ -162,6 +162,7 @@ Administrator log in:<br><img src="docs/login.png" alt="Administrator log in" wi
 Administrator home:<br><img src="docs/admin.png" alt="Administrator home" width="200"/><br><br>
 Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br><br>
 </details>
+
 ---
 ## R6. Screenshots of your Trello board throughout the duration of the project	
 
