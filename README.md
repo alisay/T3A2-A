@@ -39,7 +39,7 @@ R3	Application Architecture Diagram
 
 ##### Felicity
 
-Felicity is the curator of public art for City of Melbourne. She has a Masters of Arts in curatorial practice for the public space. She is 35 years old, identifies as a woman, and is married with a small child. Since giving birth, she has become increasingly forgetful. She wants everyone to feel the same transformative power of art that she feels. She cares deeply about the people who live in City of Melbourne and wants to do her job as best as possible to represent them, the artists she works with, and feel professional integrity when she goes to sleep at night. 
+Felicity is the curator of public art for City of Melbourne. She has a Master of Arts in curatorial practice for the public space. She is 35 years old, identifies as a woman, and is married with a small child. Since giving birth, she has become increasingly forgetful. She wants everyone to feel the same transformative power of art that she feels. She cares deeply about the people who live in City of Melbourne and wants to do her job as best as possible to represent them, the artists she works with, and feel professional integrity when she goes to sleep at night. 
 
 ##### Zal
 
@@ -66,8 +66,8 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
     * I want to be able to add new artworks, as they are commissioned or acquired by the City collection, to ensure information is up-to-date. 
     * I want to be able to edit or delete artworks I have added, so that I may correct any data entry errors I may have made.
     * I want to be able to log out, to ensure that no-one else using my computer can inadvertently add, delete or edit artworks.
-    * As an administrator, I want to be able to reset my password, in the case that I forget or want it changed.
-    * As an administrator, I do not wish to be able to edit artworks already in the database, as they are permanent installations and I do not wish to inadvertently delete their information.  
+    * I want to be able to reset my password, in the case that I forget or want it changed.
+    * I do not wish to be able to edit artworks already in the database, as they are permanent installations and I do not wish to inadvertently delete their information.  
 
 ##### Users who are members of the general public
 
@@ -111,7 +111,22 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
 
 </details>
 
-R5	Wireframes for multiple standard screen sizes, created using industry standard software	
+### R5	Wireframes for multiple standard screen sizes, created using industry standard software	
 
+<details><summary>Click to expand</summary>
+
+[Click here to view prototype on Figma](https://www.figma.com/proto/qeHkwgWMhlNLU0kqAG7YAz/Wireframes?node-id=9%3A7&viewport=521%2C164%2C0.28764817118644714&scaling=scale-down)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqeHkwgWMhlNLU0kqAG7YAz%2FWireframes%3Fnode-id%3D9%253A7%26viewport%3D521%252C164%252C0.28764817118644714%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+![Home](docs/home.pdf)
+![Map view](docs/maps.pdf)
+![Search view](docs/list.pdf)
+![Artwork details](docs/artwork.pdf)
+![About page](docs/about.pdf)
+![Administrator log in](docs/login.pdf)
+![Administrator home](docs/admin.pdf)
+![Administrator profile](docs/admin.pdf)
+![Administrator add/edit artwork](docs/add.pdf)
 
 R6	Screenshots of your Trello board throughout the duration of the project	
