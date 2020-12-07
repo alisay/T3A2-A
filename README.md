@@ -25,13 +25,15 @@ The target audiences are:
 
 Tech stack: 
 MERN
+---
+## R2. Dataflow Diagram	
 
-R2	Dataflow Diagram	
+![Dataflow Diagram](./Diagrams/DDF.jpeg)
+---
+## R3. Application Architecture Diagram
 
-
-R3	Application Architecture Diagram	
-
-
+![Architectural Diagram](./Diagrams/AAD.jpg)
+---
 ## R4	User Stories	
 
 #### Personae 
@@ -110,7 +112,6 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
     * I want my details and the information about my artwork to be prominent, accessible and accurate, so that I can ensure my moral rights as an artist are being respected.
 
 </details>
-
 ---
 ## R5   Wireframes for multiple standard screen sizes, created using industry standard software	
 
@@ -127,5 +128,7 @@ Administrator log in:<br><img src="docs/login.png" alt="Administrator log in" wi
 Administrator home:<br><img src="docs/admin.png" alt="Administrator home" width="200"/><br><br>
 Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br><br>
 </details>
+---
+## R6. Screenshots of your Trello board throughout the duration of the project	
 
-R6	Screenshots of your Trello board throughout the duration of the project	
+![Screenshot 1](./Trello_Screenshots/ScrnSht_1.png)
