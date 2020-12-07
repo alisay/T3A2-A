@@ -32,35 +32,27 @@ R2	Dataflow Diagram
 R3	Application Architecture Diagram	
 
 
-R4	User Stories	
+### R4	User Stories	
+
 #### Personae 
 <details><summary>Click to expand</summary>
-Felicity is the curator of public art for City of Melbourne. 
-She has a Masters of Arts in curatorial practice for the public space
-35 years old
-Female
-Married with a small child
-Forgetful
 
-Zal is a backpacker from Nijmegen. 
-He has an international baccalaureate
-22 years old
-Poor English-speaker
-Enjoys bouldering
+##### Felicity
 
-Tim is a musician who lives in North Melbourne.
-He has studied various university degrees but never to completion. 
-67 years old
-Has autism spectrum disorder
-Sometimes works as a busker
+Felicity is the curator of public art for City of Melbourne. She has a Masters of Arts in curatorial practice for the public space. She is 35 years old, identifies as a woman, and is married with a small child. Since giving birth, she has become increasingly forgetful. She wants everyone to feel the same transformative power of art that she feels. She cares deeply about the people who live in City of Melbourne and wants to do her job as best as possible to represent them, the artists she works with, and feel professional integrity when she goes to sleep at night. 
 
-Mohammad is an artist who lives in Stoke on Trent.
-Educated to PhD level in sculptural practice.
-42 years old
-Likes to travel
-Exacting in his standards
+##### Zal
 
-education, lifestyle, interests, values, goals, needs, limitations, desires, attitudes, and patterns of behaviour.
+Zal is a backpacker from Nijmegen. They have an international baccalaureate, but chose to travel before deciding on whether to attend tertiary education. They are 22 years old. Their first language is Dutch and but they speak a little English. They love bouldering, meeting new people, and adventure. 
+
+##### Tim
+
+Tim is a musician who lives in North Melbourne. He has studied various university degrees but never to completion. He is 67 years old. He has autism spectrum disorder, has a strong interest in local history, music, and tends to get overloaded by sensory information. Sometimes he works as a busker in public spaces of Melbourne. 
+
+##### Mohammad
+
+Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level in sculptural practice. He is 42 years old. He likes to travel, and his work at various large art institutions around the world means he has visited over one hundred countries. His art is exceptional, by virtue of his exacting standards.
+
 </details>
 
 
@@ -97,20 +89,22 @@ education, lifestyle, interests, values, goals, needs, limitations, desires, att
     * I want the activities of my department represented in a way that is professional, clean and attractive, so I can feel a sense of pride about my work.
 
 ##### Zal
-As an urban explorer:
+* As an urban explorer:
     * I want to easily see where sculptures and art installations are in the city I am visiting, so that I can plan out an itinerary for my bouldering activities. 
     * I want to learn more about the artworks I see as I am walking around, so that I can be educated on cultures other than my own. 
     * I want to make a note of my favourite artworks, so I can easily return to them on another day.
+    * As someone with limited English, I want there to be clear informational graphics that guide my use of the app, so that I can navigate the different sections with ease. 
 
 ##### Tim
-As a troubadour and proud Melbournian: 
+* As a troubadour and proud Melbournian: 
     * I want to know more about my city and the artworks I see daily, so that I can feel a warm sense of familiarity with my surroundings.
     * I want to be able to tell my audiences interesting facts about the monuments in front of which I busk, to add interest to my show.
     * I want to be routed directly to nearby artworks, so that I don't waste time in getting to work in the afternoons.
     * I want to see new artworks as they are added, so that I can be aware of where my council rates and taxes are being spent. 
+    * I want the graphics and distracting information to be kept to a minimum, so as not to cause sensory overload. 
 
 ##### Mohammad
-As an artist whose artwork is in the City of Melbourne public art collection:
+* As an artist whose artwork is in the City of Melbourne public art collection:
     * I want to be able to view my own artwork, even when I am not physically in Melbourne, so that I can experience some of the joy I am bringing to the local populace. 
     * I want to understand the context in which my artwork has been placed, so that I can be sure that my integrity as an artist is not compromised. 
     * I want my details and the information about my artwork to be prominent, accessible and accurate, so that I can ensure my moral rights as an artist are being respected.
