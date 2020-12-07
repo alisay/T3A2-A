@@ -177,3 +177,24 @@ Week 3
 
 Week 4
 ![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
+Tech stack: 
+MERN
+---
+## R2. Dataflow Diagram	
+
+![Dataflow Diagram](./Diagrams/DDF.jpeg)
+---
+## R3. Application Architecture Diagram
+
+![Architectural Diagram](./Diagrams/AAD.jpg)
+---
+## R4. User Stories	
+
+
+---
+## R5. Wireframes for multiple standard screen sizes, created using industry standard software	
+
+---
+## R6. Screenshots of your Trello board throughout the duration of the project	
+
+![Screenshot 1](./Trello_Screenshots/ScrnSht_1.png)
