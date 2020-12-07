@@ -1,4 +1,6 @@
-R1	Description of your website, including:
+# T3A2-A - MERN Application
+
+## R1. Description of your website, including:
 - Purpose
 - Functionality / features
 - Target audience
@@ -24,14 +26,17 @@ The target audiences are:
 
 Tech stack: 
 MERN
+
 ---
 ## R2. Dataflow Diagram	
 
 ![Dataflow Diagram](./Diagrams/DDF.jpeg)
+
 ---
 ## R3. Application Architecture Diagram
 
 ![Architectural Diagram](./Diagrams/AAD.jpg)
+
 ---
 ## R4. User Stories	
 
@@ -43,3 +48,9 @@ MERN
 ## R6. Screenshots of your Trello board throughout the duration of the project	
 
 ![Screenshot 1](./Trello_Screenshots/ScrnSht_1.png)
+
+![Screenshot 2](./Trello_Screenshots/ScrnSht_2.png)
+
+![Screenshot 3](./Trello_Screenshots/ScrnSht_3.png)
+
+![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
