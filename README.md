@@ -166,6 +166,19 @@ Administrator log in:<br><img src="docs/login.png" alt="Administrator log in" wi
 Administrator home:<br><img src="docs/admin.png" alt="Administrator home" width="200"/><br><br>
 Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br><br>
 </details>
+---
+## R6. Screenshots of your Trello board throughout the duration of the project	
+
+Week 1
+![Screenshot 1](./Trello_Screenshots/ScrnSht_1.png)
+
+Week 2
+![Screenshot 2](./Trello_Screenshots/ScrnSht_2.png)
+
+Week 3
+![Screenshot 3](./Trello_Screenshots/ScrnSht_3.png)
+
+![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
 
 ## R6. Screenshots of your Trello board throughout the duration of the project	
 
