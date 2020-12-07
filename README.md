@@ -67,7 +67,7 @@ Documention and Planning:
 
 ![Architectural Diagram](./Diagrams/AAD.jpg)
 ---
-## R4	User Stories	
+## R4. User Stories	
 
 #### Personae 
 <details><summary>Click to expand</summary>
@@ -145,8 +145,9 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
     * I want my details and the information about my artwork to be prominent, accessible and accurate, so that I can ensure my moral rights as an artist are being respected.
 
 </details>
+
 ---
-## R5   Wireframes for multiple standard screen sizes, created using industry standard software	
+## R5. Wireframes for multiple standard screen sizes, created using industry standard software	
 
 <details><summary>Click to expand</summary>
 
