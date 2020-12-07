@@ -164,6 +164,7 @@ Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator ad
 </details>
 
 ---
+
 ## R6. Screenshots of your Trello board throughout the duration of the project	
 
 Week 1
