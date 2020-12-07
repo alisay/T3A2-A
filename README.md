@@ -117,14 +117,14 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
 
 [Click here to view prototype on Figma](https://www.figma.com/proto/qeHkwgWMhlNLU0kqAG7YAz/Wireframes?node-id=9%3A7&viewport=521%2C164%2C0.28764817118644714&scaling=scale-down)
 
-Home<br><img src="./docs/home.png" alt="Home" width="200"/><br>
-Map view<br><img src="docs/map.png" alt="Map view" width="200"/><br>
-Search view<br><img src="docs/list.png" alt="Search view" width="200"/><br>
-Artwork details<br><img src="docs/artwork.png" alt="Artwork details" width="200"/><br>
-About page<br><img src="docs/about.png" alt="About page" width="200"/><br>
-Administrator log in<br><img src="docs/login.png" alt="Administrator log in" width="200"/><br>
-Administrator home<br><img src="docs/admin.png" alt="Administrator home" width="200"/><br>
-Administrator add/edit artwork<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br>
+Home:<br><img src="./docs/home.png" alt="Home" width="200"/><br><br>
+Map view:<br><img src="docs/map.png" alt="Map view" width="200"/><br><br>
+Search view:<br><img src="docs/list.png" alt="Search view" width="200"/><br><br>
+Artwork details:<br><img src="docs/artwork.png" alt="Artwork details" width="200"/><br><br>
+About page:<br><img src="docs/about.png" alt="About page" width="200"/><br><br>
+Administrator log in:<br><img src="docs/login.png" alt="Administrator log in" width="200"/><br><br>
+Administrator home:<br><img src="docs/admin.png" alt="Administrator home" width="200"/><br><br>
+Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br><br>
 </details>
 
 R6	Screenshots of your Trello board throughout the duration of the project	
