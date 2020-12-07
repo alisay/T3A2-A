@@ -118,7 +118,7 @@ Mohammad is an artist who lives in Stoke on Trent. He is educated to PhD level i
 [Click here to view prototype on Figma](https://www.figma.com/proto/qeHkwgWMhlNLU0kqAG7YAz/Wireframes?node-id=9%3A7&viewport=521%2C164%2C0.28764817118644714&scaling=scale-down)
 
 <img src="./docs/home.png" alt="Home" width="200"/><br>
-<img src="docs/maps.png" alt="Map view" width="200"/><br>
+<img src="docs/map.png" alt="Map view" width="200"/><br>
 <img src="docs/list.png" alt="Search view" width="200"/><br>
 <img src="docs/artwork.png" alt="Artwork details" width="200"/><br>
 <img src="docs/about.png" alt="About page" width="200"/><br>
