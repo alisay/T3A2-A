@@ -57,7 +57,6 @@ Documention and Planning:
 - Figma
 - Lucid Chart
 - Diagrams.net
-
 ---
 ## R2. Dataflow Diagram	
 
@@ -67,7 +66,6 @@ Documention and Planning:
 ## R3. Application Architecture Diagram
 
 ![Architectural Diagram](./Diagrams/AAD.jpg)
-
 ---
 ## R4	User Stories	
 
@@ -174,6 +172,8 @@ Week 2
 
 Week 3
 ![Screenshot 3](./Trello_Screenshots/ScrnSht_3.png)
+
+![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
 
 Week 4
 ![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
