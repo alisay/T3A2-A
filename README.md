@@ -16,12 +16,12 @@ From the map view or the search results view, you can navigate to see a page wit
 
 Registered administrators can log in to add additional artworks to the database, and edit or delete artworks they have added. 
 
-### Additional features:
+### Additional Features
 - wayfinding (find the best route from you to another artwork, from one artwork to another)
 - regular users can login to create a "favourites list" of artworks
 - a "share" button that generates a shareable link
 
-### The target audiences are: 
+### Target Audiences
 - Local residents interested in finding out more information about the artworks in their home town.
 - Tourists interested in learning about the culture of the town they are visiting.
 - Those with an academic interest in art, wanting a basic entry point into researching individual public artworks
@@ -57,16 +57,20 @@ Documention and Planning:
 - Figma
 - Lucid Chart
 - Diagrams.net
+
 ---
+
 ## R2. Dataflow Diagram	
 
-![Dataflow Diagram](./Diagrams/DDF.jpeg)
+![Dataflow Diagram](./docs/Diagrams/DDF.jpeg)
 
----
+---	
+
 ## R3. Application Architecture Diagram
 
-![Architectural Diagram](./Diagrams/AAD.jpg)
----
+![Architectural Diagram](./docs/Diagrams/AAD.jpg)
+
+---	
 ## R4. User Stories	
 
 #### Personae 
@@ -178,6 +182,17 @@ Week 3
 
 ![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
 
+## R6. Screenshots of your Trello board throughout the duration of the project	
+
+Week 1
+![Screenshot 1](./docs/Trello_Screenshots/ScrnSht_1.png)
+
+Week 2
+![Screenshot 2](./docs/Trello_Screenshots/ScrnSht_2.png)
+
+Week 3
+![Screenshot 3](./docs/Trello_Screenshots/ScrnSht_3.png)
+
 Week 4
-![Screenshot 4](./Trello_Screenshots/ScrnSht_4.png)
+![Screenshot 4](./docs/Trello_Screenshots/ScrnSht_4.png)
 ![Screenshot 5](./docs/Trello_Screenshots/ScrnSht_5.png)
