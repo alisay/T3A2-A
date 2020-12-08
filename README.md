@@ -167,6 +167,8 @@ Administrator home:<br><img src="docs/admin.png" alt="Administrator home" width=
 Administrator add/edit artwork:<br><img src="docs/add.png" alt="Administrator add/edit artwork" width="200"/><br><br>
 </details>
 
+These wireframes are optimised for mobile, as the app is intended primarily as a portable website to be accessed via mobile device while exploring the City on foot.   
+
 ---
 
 ## R6. Screenshots of your Trello board throughout the duration of the project	
