@@ -68,7 +68,7 @@ Documention and Planning:
 
 ## R3. Application Architecture Diagram
 
-![Architectural Diagram](./docs/Diagrams/AAD.jpg)
+![Architectural Diagram](./docs/Diagrams/AAD.png)
 
 ---	
 ## R4. User Stories	
